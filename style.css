@@ -5,7 +5,7 @@
 }
 .header{
     width:100%;
-    background-color: gray;
+    background-color: lightgray;
     display: flex;
     padding-left: 5%;
     padding-right: 5%;
@@ -22,7 +22,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .nav{
-    width: 60%;
+    width: 40%;
     height: 50px;
 }
 .nav-links{
@@ -44,6 +44,7 @@
     padding: 30px 5%;
     display: flex;
     align-items: center;
+    background-color: lightgray;
 }
 .details{
     width: 70%;
@@ -89,8 +90,7 @@
 .skills{
     width: 100%;
     padding: 30px 5%; 
-    background-color: gray;
-    color: white;
+    background-color: white;
 }
 .skills-title{
     font-size: 30px;
@@ -125,7 +125,7 @@
 }
 .ac-title{
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 500;
     /* color: white; */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
